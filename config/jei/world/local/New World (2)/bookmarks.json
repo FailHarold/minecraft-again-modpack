@@ -1,0 +1,7 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"supplementaries:antique_ink"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:confetti_popper","components":{"supplementaries:confetti_colors":[-2454092,-1,-6635572]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"supplementaries:relayer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farm_and_charm:chicken_feed"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
