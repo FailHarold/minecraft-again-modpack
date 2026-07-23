@@ -1,5 +1,3 @@
 [
-  {"version":2},
-  {"ingredient":{"id":"farm_and_charm:compost"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"farm_and_charm:fertilized_soil"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"version":2}
 ]

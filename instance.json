@@ -10739,13 +10739,426 @@
             "neoforge"
           ]
         }
+      },
+      {
+        "name": "e4mc",
+        "version": "[NeoForge] 6.2.0",
+        "optional": true,
+        "file": "e4mc-neoforge-6.2.0.jar",
+        "type": "mods",
+        "description": "Open a LAN server to anyone, anywhere, anytime.",
+        "disabled": false,
+        "userAdded": true,
+        "wasSelected": true,
+        "skipped": false,
+        "curseForgeProjectId": 849519,
+        "curseForgeFileId": 8281129,
+        "curseForgeProject": {
+          "id": 849519,
+          "name": "e4mc",
+          "authors": [
+            {
+              "id": 136212819,
+              "name": "vgskye",
+              "url": "https://www.curseforge.com/members/vgskye"
+            }
+          ],
+          "gameId": 432,
+          "summary": "Open a LAN server to anyone, anywhere, anytime.",
+          "categories": [
+            {
+              "name": "Utility & QoL",
+              "slug": "utility-qol",
+              "url": "https://www.curseforge.com/minecraft/mc-mods/utility-qol",
+              "dateModified": "2021-11-17T11:45:09.143Z",
+              "gameId": 432,
+              "isClass": false,
+              "id": 5191,
+              "iconUrl": "https://media.forgecdn.net/avatars/456/558/637727379086405233.png",
+              "parentCategoryId": 6,
+              "classId": 6
+            }
+          ],
+          "status": 4,
+          "primaryCategoryId": 5191,
+          "classId": 6,
+          "slug": "e4mc",
+          "isFeatured": false,
+          "dateModified": "2026-06-20T14:22:51.363Z",
+          "dateCreated": "2023-04-16T07:00:54.067Z",
+          "dateReleased": "2026-06-19T16:54:07.943Z",
+          "links": {
+            "websiteUrl": "https://www.curseforge.com/minecraft/mc-mods/e4mc",
+            "wikiUrl": "",
+            "issuesUrl": "https://github.com/vgskye/e4mc-minecraft-architectury/issues",
+            "sourceUrl": "https://github.com/vgskye/e4mc-minecraft-architectury"
+          },
+          "socialLinks": [
+            {
+              "type": "2",
+              "url": "https://discord.gg/VuyEUz6Ews"
+            },
+            {
+              "type": "3",
+              "url": "https://e4mc.link/"
+            },
+            {
+              "type": "14",
+              "url": "https://bsky.app/profile/e4mc.link"
+            }
+          ],
+          "logo": {
+            "id": 1861120,
+            "description": "",
+            "thumbnailUrl": "https://media.forgecdn.net/avatars/thumbnails/1861/120/256/256/639168773968861009.png",
+            "title": "639168773968861009.png",
+            "url": "https://media.forgecdn.net/avatars/1861/120/639168773968861009.png",
+            "modId": 849519
+          },
+          "allowModDistribution": true,
+          "screenshots": [],
+          "mainFileId": 8281129
+        },
+        "curseForgeFile": {
+          "id": 8281129,
+          "gameId": 432,
+          "isAvailable": true,
+          "displayName": "[NeoForge] 6.2.0",
+          "fileName": "e4mc-neoforge-6.2.0.jar",
+          "releaseType": 1,
+          "fileStatus": 4,
+          "fileDate": "2026-06-19T16:54:07.943Z",
+          "fileLength": 664499,
+          "dependencies": [
+            {
+              "fileId": 0,
+              "modId": 1402884,
+              "relationType": 2
+            }
+          ],
+          "alternateFileId": 0,
+          "modules": [
+            {
+              "fingerprint": 590763953,
+              "name": "META-INF"
+            },
+            {
+              "fingerprint": 776636016,
+              "name": "architectury_inject_e4mc_minecraft_architectury_common_d83d09053c344e74b9d9020f6284a646_d077d58e1d423512c9e9aa63f3fb13bee5cb5e80257a082c206a0b88eb60b867e4mccommon620devjar"
+            },
+            {
+              "fingerprint": 3688823187,
+              "name": "assets"
+            },
+            {
+              "fingerprint": 1055430517,
+              "name": "e4mc.mixins.json"
+            },
+            {
+              "fingerprint": 4074427638,
+              "name": "e4mc_icon.png"
+            },
+            {
+              "fingerprint": 230271548,
+              "name": "io"
+            },
+            {
+              "fingerprint": 1614722508,
+              "name": "link"
+            },
+            {
+              "fingerprint": 2234014890,
+              "name": "pack.mcmeta"
+            }
+          ],
+          "isServerPack": false,
+          "hashes": [
+            {
+              "value": "a146f01a797fc9942c020f43dd6b5b63c1a6a090",
+              "algo": 1
+            },
+            {
+              "value": "352882dceffebd8f4715b9946a1d15d6",
+              "algo": 2
+            }
+          ],
+          "sortableGameVersions": [
+            {
+              "gameVersionPadded": "0000000001.0000000021",
+              "gameVersion": "1.21",
+              "gameVersionReleaseDate": "2024-06-14T00:00:00Z",
+              "gameVersionName": "1.21"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000002",
+              "gameVersion": "1.20.2",
+              "gameVersionReleaseDate": "2023-09-21T15:25:15.053Z",
+              "gameVersionName": "1.20.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000008",
+              "gameVersion": "1.21.8",
+              "gameVersionReleaseDate": "2025-07-17T14:01:29.007Z",
+              "gameVersionName": "1.21.8"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000005",
+              "gameVersion": "1.20.5",
+              "gameVersionReleaseDate": "2024-04-23T15:00:48.803Z",
+              "gameVersionName": "1.20.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000005",
+              "gameVersion": "1.21.5",
+              "gameVersionReleaseDate": "2025-03-25T16:46:25.94Z",
+              "gameVersionName": "1.21.5"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000004",
+              "gameVersion": "1.21.4",
+              "gameVersionReleaseDate": "2024-12-03T16:26:15.35Z",
+              "gameVersionName": "1.21.4"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000006",
+              "gameVersion": "1.20.6",
+              "gameVersionReleaseDate": "2024-04-29T15:15:44.67Z",
+              "gameVersionName": "1.20.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000001",
+              "gameVersion": "1.21.1",
+              "gameVersionReleaseDate": "2024-08-08T15:17:53.787Z",
+              "gameVersionName": "1.21.1"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000006",
+              "gameVersion": "1.21.6",
+              "gameVersionReleaseDate": "2025-06-17T19:44:59.623Z",
+              "gameVersionName": "1.21.6"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000003",
+              "gameVersion": "1.21.3",
+              "gameVersionReleaseDate": "2024-10-23T13:16:45.71Z",
+              "gameVersionName": "1.21.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000007",
+              "gameVersion": "1.21.7",
+              "gameVersionReleaseDate": "2025-06-30T14:45:05.54Z",
+              "gameVersionName": "1.21.7"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000004",
+              "gameVersion": "1.20.4",
+              "gameVersionReleaseDate": "2023-12-07T15:17:47.907Z",
+              "gameVersionName": "1.20.4"
+            },
+            {
+              "gameVersionPadded": "0",
+              "gameVersion": "",
+              "gameVersionReleaseDate": "2023-07-25T00:00:00Z",
+              "gameVersionName": "NeoForge"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000020.0000000003",
+              "gameVersion": "1.20.3",
+              "gameVersionReleaseDate": "2023-12-05T17:24:10.113Z",
+              "gameVersionName": "1.20.3"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000002",
+              "gameVersion": "1.21.2",
+              "gameVersionReleaseDate": "2024-10-22T00:00:00Z",
+              "gameVersionName": "1.21.2"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000009",
+              "gameVersion": "1.21.9",
+              "gameVersionReleaseDate": "2025-09-30T15:50:17.583Z",
+              "gameVersionName": "1.21.9"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000010",
+              "gameVersion": "1.21.10",
+              "gameVersionReleaseDate": "2025-10-07T14:57:47Z",
+              "gameVersionName": "1.21.10"
+            },
+            {
+              "gameVersionPadded": "0000000001.0000000021.0000000011",
+              "gameVersion": "1.21.11",
+              "gameVersionReleaseDate": "2025-12-09T16:42:14.27Z",
+              "gameVersionName": "1.21.11"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001",
+              "gameVersion": "26.1",
+              "gameVersionReleaseDate": "2026-03-24T16:40:19.29Z",
+              "gameVersionName": "26.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000001",
+              "gameVersion": "26.1.1",
+              "gameVersionReleaseDate": "2026-04-01T11:40:06.78Z",
+              "gameVersionName": "26.1.1"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000001.0000000002",
+              "gameVersion": "26.1.2",
+              "gameVersionReleaseDate": "2026-04-09T11:39:54.243Z",
+              "gameVersionName": "26.1.2"
+            },
+            {
+              "gameVersionPadded": "0000000026.0000000002",
+              "gameVersion": "26.2",
+              "gameVersionReleaseDate": "2026-06-16T15:39:22.26Z",
+              "gameVersionName": "26.2"
+            }
+          ],
+          "gameVersions": [
+            "1.21",
+            "1.20.2",
+            "1.21.8",
+            "1.20.5",
+            "1.21.5",
+            "1.21.4",
+            "1.20.6",
+            "1.21.1",
+            "1.21.6",
+            "1.21.3",
+            "1.21.7",
+            "1.20.4",
+            "NeoForge",
+            "1.20.3",
+            "1.21.2",
+            "1.21.9",
+            "1.21.10",
+            "1.21.11",
+            "26.1",
+            "26.1.1",
+            "26.1.2",
+            "26.2"
+          ],
+          "fileFingerprint": 1147365376,
+          "modId": 849519
+        },
+        "modrinthProject": {
+          "id": "qANg5Jrr",
+          "slug": "e4mc",
+          "project_type": "mod",
+          "team": "uKJpK4YG",
+          "title": "e4mc",
+          "description": "Open a LAN server to anyone, anywhere, anytime.",
+          "body": "[![Bisect Hosting partner banner](https://www.bisecthosting.com/partners/custom-banners/7038a2ef-0f61-41a2-8d86-6e2e65a0f5c7.webp)](https://bisecthosting.com/skyevg)\n\n# [e4mc](https://e4mc.link)\n\nOpen your LAN server to the public, easily and quickly!\n\n## What is e4mc?\n\ne4mc is a reverse tunneling reverse proxy for Minecraft.\nIn simpler terms, it's a software that allows you to temporarily expose a local Minecraft server to the internet.\n\n## How do I use it?\n\nSimply install the mod, and Open to LAN as normal. A public domain will appear alongside the local port. Others can simply connect to the public domain to connect to your LAN server.\n\n## Why e4mc?\n\n### Works everywhere\n\nIt works everywhere. and I mean everywhere. If you can read this webpage, you can use e4mc.\n\n### Works with vanilla clients\n\nYou don't need to install e4mc on both sides.\nIt just gives you a domain.\nJust share the domain.\n\n### No extra software or configuration required\n\nNone. The host installs the mod on their side, and that's it.\nYou install the mod, Open to LAN as normal, and you get a sharable domain.\n\n### Open source\n\nYes. The entire thing. The server too. It's all public.",
+          "published": "2023-04-09T06:32:15.494329Z",
+          "updated": "2026-06-19T16:54:08.177437Z",
+          "status": "approved",
+          "license": {
+            "id": "MIT",
+            "name": "MIT License"
+          },
+          "client_side": "required",
+          "server_side": "required",
+          "categories": [
+            "social",
+            "utility"
+          ],
+          "loaders": [
+            "fabric",
+            "forge",
+            "neoforge",
+            "quilt"
+          ],
+          "icon_url": "https://cdn.modrinth.com/data/qANg5Jrr/b2a7b56dadf51d104bfb315e5e8241515e346fae_96.webp",
+          "issues_url": "https://github.com/vgskye/e4mc-minecraft-architectury/issues",
+          "source_url": "https://github.com/vgskye/e4mc-minecraft-architectury/",
+          "discord_url": "https://discord.gg/VuyEUz6Ews",
+          "donation_urls": [
+            {
+              "id": "ko-fi",
+              "platform": "Ko-fi",
+              "url": "https://ko-fi.com/skyevg"
+            },
+            {
+              "id": "patreon",
+              "platform": "Patreon",
+              "url": "https://patreon.com/skyevg"
+            }
+          ],
+          "gallery": []
+        },
+        "modrinthVersion": {
+          "id": "8CGbAwhn",
+          "project_id": "qANg5Jrr",
+          "author_id": "gI55Bsc7",
+          "name": "[NeoForge] 6.2.0",
+          "version_number": "6.2.0-neoforge",
+          "changelog": "## 6.2.0\n\n- Added 26.2 support.\n- Added option to hide the domain in chat.",
+          "date_published": "2026-06-19T16:54:08.018136Z",
+          "version_type": "release",
+          "files": [
+            {
+              "hashes": {
+                "sha1": "a146f01a797fc9942c020f43dd6b5b63c1a6a090",
+                "sha512": "3d15491822fd9a1cfd7172c47da36aed42c6fdd2a550bb8b2a03dfdbee25cbdd451990bbf4a399825f6f69e2285d8a782b72c8ad192da89c8283dd58fab96b4b"
+              },
+              "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/8CGbAwhn/e4mc-neoforge-6.2.0.jar",
+              "filename": "e4mc-neoforge-6.2.0.jar",
+              "primary": true,
+              "size": 664499
+            },
+            {
+              "hashes": {
+                "sha1": "f477c093a0a1ec8fcd7223cf84ecce4532f1a73c",
+                "sha512": "5fcb6b9d8ebcc44e1fc2fe264328f49b2d29d15fb8b4995136226253f1e980b2875afb2bdabe1842ad9d6b9fc61dddb9ae5ed75f6fdca02475cfdc99d3acb46d"
+              },
+              "url": "https://cdn.modrinth.com/data/qANg5Jrr/versions/8CGbAwhn/e4mc-neoforge-6.2.0-sources.jar",
+              "filename": "e4mc-neoforge-6.2.0-sources.jar",
+              "primary": false,
+              "size": 44658
+            }
+          ],
+          "dependencies": [
+            {
+              "project_id": "tNmWwdI2",
+              "dependency_type": "optional"
+            }
+          ],
+          "game_versions": [
+            "1.20.2",
+            "1.20.3",
+            "1.20.4",
+            "1.20.5",
+            "1.20.6",
+            "1.21",
+            "1.21.1",
+            "1.21.2",
+            "1.21.3",
+            "1.21.4",
+            "1.21.5",
+            "1.21.6",
+            "1.21.7",
+            "1.21.8",
+            "1.21.9",
+            "1.21.10",
+            "1.21.11",
+            "26.1",
+            "26.1.1",
+            "26.1.2",
+            "26.2"
+          ],
+          "loaders": [
+            "neoforge"
+          ]
+        }
       }
     ],
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1784694288974,
-    "numPlays": 25,
+    "lastPlayed": 1784745975102,
+    "numPlays": 27,
     "lastExportName": "MINECRAFT AGAIN",
     "lastExportVersion": "1.21.1",
     "lastExportAuthor": "FailHarold",
