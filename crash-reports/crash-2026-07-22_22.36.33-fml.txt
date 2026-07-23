@@ -1,0 +1,96 @@
+---- Minecraft Crash Report ----
+// Daisy, daisy...
+
+Time: 2026-07-22 22:36:33
+Description: Mod loading failures have occurred; consult the issue messages for more details
+
+net.neoforged.neoforge.logging.CrashReportExtender$ModLoadingCrashException: Mod loading has failed
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Mod loading issue --
+Details:
+	Mod file: <No mod information provided>
+	Failure message: Mod File mods\InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar needs language provider kotlinforforge:5.7 or above to load
+		We have found -
+	Mod version: <No mod information provided>
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue --
+Details:
+	Mod file: <No mod information provided>
+	Failure message: Mod File mods\libIPN-neoforge-1.21.1-6.6.3.jar needs language provider kotlinforforge:5.7.0 or above to load
+		We have found -
+	Mod version: <No mod information provided>
+	Mod issues URL: <No issues URL found>
+	Exception message: <No associated exception found>
+
+-- Mod loading issue for: gallery --
+Details:
+	Mod file: /C:/Users/failb/Roaming/ATLauncher/instances/minecraft-again-modpack/mods/gallery-1.21.1-2.0.1.jar
+	Failure message: Mod gallery requires blueprint 8.0.3 or above
+		Currently, blueprint is not installed
+		
+	Mod version: 2.0.1
+	Mod issues URL: https://github.com/team-abnormals/gallery/issues
+	Exception message: <No associated exception found>
+
+-- System Details --
+Details:
+	Minecraft Version: 1.21.1
+	Minecraft Version ID: 1.21.1
+	Operating System: Windows 11 (amd64) version 10.0
+	Java Version: 21.0.7, Microsoft
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Microsoft
+	Memory: 737628432 bytes (703 MiB) / 1476395008 bytes (1408 MiB) up to 16642998272 bytes (15872 MiB)
+	CPUs: 20
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz
+	Identifier: Intel64 Family 6 Model 165 Stepping 5
+	Microarchitecture: Comet Lake
+	Frequency (GHz): 3.60
+	Number of physical packages: 1
+	Number of physical CPUs: 10
+	Number of logical CPUs: 20
+	Graphics card #0 name: NVIDIA GeForce RTX 3060
+	Graphics card #0 vendor: NVIDIA
+	Graphics card #0 VRAM (MiB): 12288.00
+	Graphics card #0 deviceId: VideoController1
+	Graphics card #0 versionInfo: 32.0.15.8157
+	Memory slot #0 capacity (MiB): 16384.00
+	Memory slot #0 clockSpeed (GHz): 2.13
+	Memory slot #0 type: DDR4
+	Memory slot #1 capacity (MiB): 16384.00
+	Memory slot #1 clockSpeed (GHz): 2.13
+	Memory slot #1 type: DDR4
+	Virtual memory max (MiB): 64888.44
+	Virtual memory used (MiB): 55611.80
+	Swap memory total (MiB): 32198.43
+	Swap memory used (MiB): 4760.75
+	Space in storage for jna.tmpdir (MiB): available: 46694.09, total: 953114.38
+	Space in storage for org.lwjgl.system.SharedLibraryExtractPath (MiB): available: 46694.09, total: 953114.38
+	Space in storage for io.netty.native.workdir (MiB): available: 46694.09, total: 953114.38
+	Space in storage for java.io.tmpdir (MiB): available: 46694.09, total: 953114.38
+	Space in storage for workdir (MiB): available: 46694.09, total: 953114.38
+	JVM Flags: 9 total; -Xmx15872M -XX:MetaspaceSize=256M -XX:+UnlockExperimentalVMOptions -XX:+UseG1GC -XX:G1NewSizePercent=20 -XX:G1ReservePercent=20 -XX:MaxGCPauseMillis=50 -XX:G1HeapRegionSize=32M -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	ModLauncher: 11.0.5+main.901c6ea8
+	ModLauncher launch target: forgeclient
+	ModLauncher services: 
+		sponge-mixin-0.15.2+mixin.0.8.7.jar mixin PLUGINSERVICE 
+		loader-4.0.43.jar slf4jfixer PLUGINSERVICE 
+		loader-4.0.43.jar runtime_enum_extender PLUGINSERVICE 
+		at-modlauncher-10.0.1.jar accesstransformer PLUGINSERVICE 
+		loader-4.0.43.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-11.0.5.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar fml TRANSFORMATIONSERVICE 
+		modlauncher-11.0.5.jar connector_loader TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		javafml@4.0
+		lowcodefml@4.0
+		minecraft@4.0
+	Mod List: 
+		client-1.21.1-20240808.144430-srg.jar             |Minecraft                     |minecraft                     |1.21.1              |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		neoforge-21.1.243-universal.jar                   |NeoForge                      |neoforge                      |21.1.243            |Manifest: NOSIGNATURE
