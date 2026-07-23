@@ -309,6 +309,1746 @@
     "maxWaterDepth": 32,
     "implosionChance": 0.8075
   },
+  "bloomingnature:amaryllis": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:anemone": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:aspen_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:aspen_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:aspen_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:baobab_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:baobab_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:baobab_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:barrel_cactus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:begonie": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:bird_of_paradise": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:blooming_oak_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:blooming_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:bloomingnature_banner": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:bloomingnature_wall_banner": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:bluebell": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:bluff_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:bottlebrushes": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:brown_mushroom_brick_slab": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:brown_mushroom_brick_stairs": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:brown_mushroom_brick_wall": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:brown_mushroom_bricks": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:cactus_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:cactus_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cactus_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cardinal": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cattail": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:chestnut_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:chestnut_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chestnut_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:chiseled_laterit": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:chiseled_marlstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:chiseled_slate": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:chiseled_travertin": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_laterit": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_laterit_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_laterit_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_laterit_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_marlstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_marlstone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_marlstone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_marlstone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_slate": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_slate_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_slate_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_slate_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_travertin": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_travertin_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_travertin_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cobbled_travertin_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cracked_laterit_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cracked_marlstone_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cracked_slate_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cracked_travertin_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:cypress_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:cypress_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:cypress_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:cypress_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:daphne": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:desert_lily": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:dry_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:dry_bush_tall": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:dry_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:ebony_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:ebony_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:ebony_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:fan_palm_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_sprout": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:fan_palm_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fan_palm_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fen_moss": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fen_moss_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:fir_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:fir_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:fir_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:floating_leaves": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:forest_moss": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:forest_moss_carpet": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:forsythia": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:foxglove_pink": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:foxglove_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:freesia_pink": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:freesia_yellow": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:genisteae": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:gladiolus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:goatsbeard": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:golden_rod": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:hyssop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:joe_pye": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:larch_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:larch_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:larch_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:laterit": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:laterit_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:laterit_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:laterit_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:laterit_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:laterit_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:laterit_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:laterit_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:lupine_blue": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:lupine_purple": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:marlstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marlstone_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marlstone_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marlstone_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marlstone_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marlstone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marlstone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marlstone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:marsh_block": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:mossgrass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:mossy_chiseled_laterit": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_chiseled_marlstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_chiseled_slate": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_chiseled_travertin": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_laterit": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_laterit_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_laterit_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_laterit_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_marlstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_marlstone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_marlstone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_marlstone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_slate": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_slate_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_slate_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_slate_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_travertin": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_travertin_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_travertin_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_cobbled_travertin_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_stone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_laterit_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_marlstone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_slate_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mossy_travertin_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:mountain_laurel": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:mountain_snowbell": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:munstead": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:mushroom_brick_slab": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:mushroom_brick_stairs": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:mushroom_brick_wall": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:mushroom_bricks": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:myosotis": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:orange_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:pebbles": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_amaryllis": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_anemone": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_aspen_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_baobab_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_barrel_cactus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_begonie": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_bird_of_paradise": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_blooming_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_bluebell": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_bottlebrushes": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_chestnut_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_cypress_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_daphne": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_desert_lily": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_dry_bush": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_ebony_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_fan_palm_sprout": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_fir_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_forsythia": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_foxglove_pink": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_foxglove_white": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_freesia_pink": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_freesia_yellow": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_genisteae": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_gladiolus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_goatsbeard": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_golden_rod": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_hyssop": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_joe_pye": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_larch_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_lupine_blue": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_lupine_purple": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_mountain_laurel": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_mountain_snowbell": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_munstead": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_myosotis": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_prickly_pear_cactus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_swamp_cypress_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_swamp_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:potted_white_orchid": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:prickly_pear_cactus": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:quicksand": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:red_oat_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:reed": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:sand": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:silkgrass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:slate": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:slate_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:slate_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:slate_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:slate_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:slate_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:slate_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:slate_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:small_cactus": {
+    "maxWaterDepth": 6,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_aspen_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_aspen_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_baobab_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_baobab_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_chestnut_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_chestnut_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_cypress_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_cypress_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_ebony_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_ebony_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_fan_palm_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_fan_palm_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_fir_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_fir_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_larch_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_larch_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_swamp_cypress_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_swamp_cypress_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_swamp_oak_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:stripped_swamp_oak_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:sunflower": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:sungrass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:swamp_cypress_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:swamp_cypress_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_cypress_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_button": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_door": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:swamp_oak_fence": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_fence_gate": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_leaves": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_log": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_planks": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_pressure_plate": {
+    "maxWaterDepth": 5,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_sapling": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_slab": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_stairs": {
+    "maxWaterDepth": 23,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_trapdoor": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.82
+  },
+  "bloomingnature:swamp_oak_wall_hanging_sign": {
+    "maxWaterDepth": 16,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_wall_sign": {
+    "maxWaterDepth": 10,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_window": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:swamp_oak_wood": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:tall_bluff_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:tall_lupine_blue": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:tall_lupine_purple": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:tall_mountain_laurel": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:tall_red_oat_grass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:tall_silkgrass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:tall_sungrass": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:travertin": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:travertin_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:travertin_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:travertin_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:travertin_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:travertin_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:travertin_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:travertin_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "bloomingnature:twigs": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:white_orchid": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "bloomingnature:wild_sunflower": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
   "copycats:copycat_base": {
     "maxWaterDepth": 120,
     "implosionChance": 0.28
@@ -8920,6 +10660,390 @@
   "simulated:yellow_symmetric_sail": {
     "maxWaterDepth": 33,
     "implosionChance": 0.8
+  },
+  "spelunkers_charm:amethyst_brick_slab": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:amethyst_brick_stairs": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:amethyst_brick_wall": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:amethyst_bricks": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:basalt_geyser": {
+    "maxWaterDepth": 37,
+    "implosionChance": 0.7766667
+  },
+  "spelunkers_charm:basalt_rock": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:blaster": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:boulder": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:cave_mushroom": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:cave_mushroom_block": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:chiseled_amethyst_block": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:chiseled_dunestone_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:chiseled_permafrost_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:chiseled_wildstone_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:clay_ball": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:cobbled_dunestone": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "spelunkers_charm:cobbled_dunestone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:cobbled_dunestone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:cobbled_dunestone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:cobbled_permafrost": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "spelunkers_charm:cobbled_permafrost_slab": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "spelunkers_charm:cobbled_permafrost_stairs": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "spelunkers_charm:cobbled_permafrost_wall": {
+    "maxWaterDepth": 61,
+    "implosionChance": 0.6333333
+  },
+  "spelunkers_charm:cobbled_wildstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:cobbled_wildstone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:cobbled_wildstone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:cobbled_wildstone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:copper_boulder": {
+    "maxWaterDepth": 98,
+    "implosionChance": 0.41333333
+  },
+  "spelunkers_charm:deepslate_geyser": {
+    "maxWaterDepth": 73,
+    "implosionChance": 0.56
+  },
+  "spelunkers_charm:deepslate_rock": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:dripstone_rock": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:dunestone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_coal_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_copper_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_diamond_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_emerald_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_gold_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_iron_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_lapis_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_redstone_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:dunestone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:gold_boulder": {
+    "maxWaterDepth": 98,
+    "implosionChance": 0.41333333
+  },
+  "spelunkers_charm:hanging_web": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "spelunkers_charm:ice_ball": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:icicle": {
+    "maxWaterDepth": 2,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:iron_boulder": {
+    "maxWaterDepth": 98,
+    "implosionChance": 0.41333333
+  },
+  "spelunkers_charm:lush_boulder": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:lush_copper_boulder": {
+    "maxWaterDepth": 98,
+    "implosionChance": 0.41333333
+  },
+  "spelunkers_charm:lush_gold_boulder": {
+    "maxWaterDepth": 98,
+    "implosionChance": 0.41333333
+  },
+  "spelunkers_charm:lush_iron_boulder": {
+    "maxWaterDepth": 98,
+    "implosionChance": 0.41333333
+  },
+  "spelunkers_charm:packed_web": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "spelunkers_charm:permafrost": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_coal_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_copper_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_diamond_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_emerald_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_gold_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_iron_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_lapis_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_redstone_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafrost_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:permafroster": {
+    "maxWaterDepth": 20,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:powered_lift_track": {
+    "maxWaterDepth": 161,
+    "implosionChance": 0.05
+  },
+  "spelunkers_charm:rock": {
+    "maxWaterDepth": 1,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:silt": {
+    "maxWaterDepth": 8,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:spider_egg": {
+    "maxWaterDepth": 3,
+    "implosionChance": 0.85
+  },
+  "spelunkers_charm:web_vein": {
+    "maxWaterDepth": 67,
+    "implosionChance": 0.6
+  },
+  "spelunkers_charm:wildstone": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_brick_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_brick_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_brick_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_bricks": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_coal_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_copper_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_diamond_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_emerald_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_gold_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_iron_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_lapis_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_redstone_ore": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_slab": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_stairs": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wildstone_wall": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
+  },
+  "spelunkers_charm:wooden_lift_track": {
+    "maxWaterDepth": 55,
+    "implosionChance": 0.67
   },
   "supplementaries:ash": {
     "maxWaterDepth": 1,
