@@ -1,9 +1,9 @@
 {
-  "uuid": "28510718-048c-46b5-94bd-8a2f9977376c",
+  "uuid": "7ddc8d1f-0beb-4bf7-b740-e46838762177",
   "launcher": {
-    "name": "Minecraft:Again",
-    "pack": "Minecraft",
-    "description": "Minecraft:Again",
+    "name": "Minecraft: Again",
+    "pack": "Minecraft:again",
+    "description": "personal pack made for some friends",
     "packId": 0,
     "externalPackId": 0,
     "version": "1.21.1",
@@ -28,8 +28,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 1784768639104,
-    "numPlays": 2
+    "lastPlayed": 0,
+    "numPlays": 0
   },
   "id": "1.21.1",
   "complianceLevel": 1,
