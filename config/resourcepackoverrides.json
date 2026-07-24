@@ -1,0 +1,17 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "1": [
+      "file/Minecraft Again Assets"
+    ],
+    "$$1": {
+      "hidden": false,
+      "required": true
+    }
+  }
+}
