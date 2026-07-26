@@ -153,3 +153,30 @@ config/trender.json
 config/yacl.json5
 defaultconfigs/biolith/general.json
 config/create_submarine_client_state.json
+/hold this for me thanks
+/ignore the folder above me
+config/aeronautics_utility_objects-server.toml
+config/aeroportals-server.toml
+config/apotheosis/enchantments.cfg
+config/bits_n_bobs-server.toml
+config/chunky/config.json
+config/climbable_ropes-server.toml
+config/copycats-server.toml
+config/create-server.toml
+config/create_dragons_plus-server.toml
+config/create_dragons_plus-simulated-extension-server.toml
+config/create_enchantment_industry-apothic_enchanting-server.toml
+config/create_enchantment_industry-server.toml
+config/createbigcannons-server.toml
+config/galena_hats.json
+config/jei-server.toml
+config/neoforge-server.toml
+config/offroad-server.toml
+config/pehkui-server.toml
+config/powergrid-server.toml
+config/ritchiesprojectilelib-server.toml
+config/simulated-server.toml
+config/tfmg-server.toml
+config/towed-server.toml
+config/vsfluidlink-server.toml
+config/aeronautics-server.toml
