@@ -180,3 +180,10 @@ config/tfmg-server.toml
 config/towed-server.toml
 config/vsfluidlink-server.toml
 config/aeronautics-server.toml
+config/clientsort-server.json
+config/clientsort.json
+config/gravestone-client.toml
+config/gravestone-server.toml
+config/jamlib/known_suspicious_jars.txt
+config/rightclickharvest.json5
+options.txt
