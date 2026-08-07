@@ -187,3 +187,5 @@ config/gravestone-server.toml
 config/jamlib/known_suspicious_jars.txt
 config/rightclickharvest.json5
 options.txt
+/config/worldedit/.archive-unpack
+/config/fancymenu/ui_themes
