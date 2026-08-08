@@ -207,3 +207,9 @@ config/pipeorgans-server.toml
 config/pipesnphysics-server.toml
 config/worldstripper/config.json
 config/worldstripper/strippables.json
+config/create_connected-common.toml
+config/create_connected-server.toml
+/config/structurify
+/cache
+/config/fancymenu/layout_editor/widgets
+/config/fancymenu/layout_editor/widgets
