@@ -213,3 +213,5 @@ config/create_connected-server.toml
 /cache
 /config/fancymenu/layout_editor/widgets
 /config/fancymenu/layout_editor/widgets
+config/fancymenu/legacy_checklist.txt
+config/fancymenu/legacy_checklist.txt
