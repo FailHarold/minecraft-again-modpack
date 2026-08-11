@@ -10,7 +10,7 @@ layout-meta {
   randomonlyfirsttime = false
   layout_index = 0
   universal_layout_blacklist = inventory_screen;
-  [loading_requirement_container_meta:84162da9-81f6-4d2e-9f7f-9583dd62bd2c-1784857865230] = [groups:][instances:]
+  [loading_requirement_container_meta:ee6d1c20-c346-42d7-b0fa-2bd077860639-1786290742160] = [groups:][instances:]
 }
 
 menu_background {

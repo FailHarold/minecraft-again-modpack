@@ -105,3 +105,6 @@ net.minecraft.client.gui.screens.TitleScreen {
 net.minecraft.client.gui.screens.DisconnectedScreen {
 }
 
+com.AdamNew.dynamicwaters.client.gui.DWConfigScreen {
+}
+
