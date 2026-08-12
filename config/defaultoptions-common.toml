@@ -1,0 +1,7 @@
+#The default difficulty selected for newly created worlds.
+#Allowed Values: PEACEFUL, EASY, NORMAL, HARD
+defaultDifficulty = "NORMAL"
+#Resource pack IDs to have enabled by default on the first run.
+defaultResourcePacks = ["vanilla","fabric","file/Minecraft Again Assets","mod_resources","mod/sound_physics_remastered:resourcepacks/amplified_aeronautics_propellers","mod/sound_physics_remastered:resourcepacks/create_train_long_range","moonlight:merged_pack","file/Better Infuser Model","file/FCG-Compat.zip","file/Fusion Connected Blocks v1.1.0 for Minecraft 1.20-26.2.zip","file/Fusion Connected Glass v1.0.1 for Minecraft 1.20-1.21.8.zip","file/Let\u0027s Do Reimagined v1.4.2.zip","file/LowOnFire v26.1§8.zip","file/Lower Shield.zip","file/Midnighttiggers-FCT-Default_1.20_V8.zip","file/§eExtended_Illumina_26.2.x.zip","file/§eTorches§8-§eReimagined§0_§8[v1.8]§0.zip"]
+#Set to true if the difficulty for new world's should be locked to the specific default. This cannot be unlocked by players without external tools! Probably a bad idea. I don't recommend. Why am I adding this option?
+lockDifficulty = false

@@ -90,7 +90,6 @@ config/create_dragons_plus-client.toml
 config/create_dragons_plus-common.toml
 config/create_enchantment_industry-client.toml
 config/create_enchantment_industry-common.toml
-config/create_submarine-common.toml
 config/createbigcannons-client.toml
 config/createpropulsion-client.toml
 config/createpropulsion-common.toml
@@ -245,7 +244,6 @@ config/fzzy_config/keybinds.toml
 config/immediatelyfast.json
 config/krypton_fnp.yaml
 config/lithium.properties
-/config/wover
 config/swinginglanterns/README.txt
 config/swinginglanterns/swinginglanterns.json
 config/swinginglanterns/raycast_ignored_blocks.json
@@ -282,3 +280,6 @@ config/ambientbirds.json
 fabricloader.log
 /panoptic
 config/panoptic-common.toml
+config/wover/main.json
+config/wover/cached.json
+config/grassnotfloating-common.toml
