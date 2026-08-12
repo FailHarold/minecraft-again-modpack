@@ -28,7 +28,6 @@ dahlia2.cpmproject
 elytra.png
 protobyte_v2.0.2.bbmodel
 protobyte_v2.0.2.cpmproject
-servers.dat
 servers.dat_old
 skin.png
 armor1.png
@@ -281,3 +280,5 @@ shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3/addedMods.md
 config/reliable_replacer/example_rules.json.disabled
 config/ambientbirds.json
 fabricloader.log
+/panoptic
+config/panoptic-common.toml
