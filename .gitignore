@@ -283,3 +283,12 @@ config/panoptic-common.toml
 config/wover/main.json
 config/wover/cached.json
 config/grassnotfloating-common.toml
+/world
+banned-ips.json
+banned-players.json
+config/coastersengineered-server.toml
+config/configured-developer.properties
+user_jvm_args.txt
+whitelist.json
+server.properties
+ops.json
