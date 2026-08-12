@@ -145,7 +145,6 @@ config/sodium-options.json
 config/submarine_hull.json
 config/supplementaries-client.toml
 config/supplementaries-common.toml
-config/surveyor.toml
 config/tfmg-common.toml
 config/tiny_takeover_backport.json
 config/transition.json
@@ -279,3 +278,6 @@ shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3/EuphoriaPatch
 shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3/InformationEuphoriaPatches.md
 shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3/Made for Complementary Shaders r5.8.1.txt
 shaderpacks/ComplementaryReimagined_r5.8.1 + EuphoriaPatches_1.9.3/addedMods.md
+config/reliable_replacer/example_rules.json.disabled
+config/ambientbirds.json
+fabricloader.log
