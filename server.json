@@ -1,0 +1,24 @@
+{
+  "name": "Minecraft 1.21.1 with NeoForge",
+  "pack": "Minecraft",
+  "vanillaInstance": true,
+  "packId": 0,
+  "externalPackId": 0,
+  "minecraftVersion": "1.21.1",
+  "version": "1.21.1",
+  "isPatchedForLog4Shell": true,
+  "loaderVersion": {
+    "version": "21.1.248",
+    "rawVersion": "21.1.248",
+    "recommended": false,
+    "type": "NeoForge",
+    "downloadables": {}
+  },
+  "javaVersion": {
+    "component": "java-runtime-delta",
+    "majorVersion": 21
+  },
+  "isDev": false,
+  "mods": [],
+  "ignoredUpdates": []
+}
