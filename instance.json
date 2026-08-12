@@ -1,12 +1,11 @@
 {
-  "uuid": "f36b1784-1fce-45ec-b36d-a1c980873431",
   "launcher": {
     "name": "Minecraft:Again",
     "pack": "Minecraft:Again",
-    "description": "a \"vanilla++\" modpack for some friends, with create aeronautics as the keystone mod!",
+    "description": "a \"\"vanilla++\"\" modpack for some friends",
     "packId": 0,
     "externalPackId": 0,
-    "version": "RC1",
+    "version": "R3U0P0",
     "enableCurseForgeIntegration": true,
     "enableEditingMods": true,
     "loaderVersion": {
