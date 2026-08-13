@@ -283,3 +283,5 @@ config/panoptic-common.toml
 config/wover/main.json
 config/wover/cached.json
 config/grassnotfloating-common.toml
+config/coastersengineered-server.toml
+defaultoptions.journal.json
