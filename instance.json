@@ -1,6 +1,6 @@
 {
   "launcher": {
-    "name": "Minecraft:Again",
+    "name": "zMinecraft:Again",
     "pack": "Minecraft:Again",
     "description": "a \"\"vanilla++\"\" modpack for some friends",
     "packId": 0,
@@ -27,8 +27,8 @@
     "ignoredUpdates": [],
     "ignoreAllUpdates": false,
     "vanillaInstance": true,
-    "lastPlayed": 0,
-    "numPlays": 0
+    "lastPlayed": 1786579845400,
+    "numPlays": 3
   },
   "id": "1.21.1",
   "complianceLevel": 1,

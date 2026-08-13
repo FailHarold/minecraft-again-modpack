@@ -108,3 +108,6 @@ net.minecraft.client.gui.screens.DisconnectedScreen {
 com.AdamNew.dynamicwaters.client.gui.DWConfigScreen {
 }
 
+net.minecraft.client.gui.screens.multiplayer.SafetyScreen {
+}
+
