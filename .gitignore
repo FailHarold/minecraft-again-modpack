@@ -83,7 +83,6 @@ config/collective.json5
 config/configured-client.properties
 config/copycats-client.toml
 config/copycats-common.toml
-config/cpm.json
 config/create-client.toml
 config/create-common.toml
 config/create_dragons_plus-client.toml
