@@ -1,9 +1,0 @@
-{
-  "_WARNING": "USE AT YOUR OWN RISK. Incorrect use can cause crashes, broken mods, and world corruption. Back up your worlds. Do NOT report bugs to mod authors if you have modified their mixins with this tool.",
-  "enabled": true,
-  "blacklist": {
-    "mixins": ["com.ishland.vmp.mixins.general.ingredient_matching.MixinIngredient"],
-    "mixinConfigs": [],
-    "targetClasses": []
-  }
-}

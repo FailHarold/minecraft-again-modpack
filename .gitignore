@@ -77,7 +77,6 @@ config/blueprint-client.toml
 config/blueprint-common.toml
 config/burnt_1_9_0_2_config.json
 config/carryon-client.toml
-config/carryon-common.toml
 config/climbable_ropes-client.toml
 config/collective.json5
 config/configured-client.properties
